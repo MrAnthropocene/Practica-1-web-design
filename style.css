@@ -1,1 +1,116 @@
 
+body{
+    background-color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.gustos{
+    padding-top: 900px;
+    font-size: 40px;
+    text-align: center;
+    padding: 100px;
+    text-shadow: 5px 5px 10px black;
+    color: aliceblue;
+}
+.aboutme-container{
+    background-image: url(../img/ptssunset.jpg);
+    font-size: 40px;
+    text-align: center;
+    padding: 100px;
+    text-shadow: 5px 5px 10px black;
+    color: aliceblue;
+    margin-top: 0;
+    background-size: cover;
+    background-attachment:fixed;
+}
+.elmar-container{
+    
+    background-image: url("../img/IMG-20250210-WA0012.jpg");
+    height: 95vh;
+    width: 50%vw;
+    margin: 0;
+    background-size: cover;
+    background-attachment:fixed;
+    padding-bottom: 500px;    
+    
+}
+.nadar-container{
+    background-image: url("../img/Imagen de WhatsApp 2025-02-10 a las 23.48.50_d6bd3ce8.jpg");
+    height: 90vh;
+    width: 50%vw;
+    margin-top: 0;
+    background-size: cover;
+    padding-bottom: 500px;
+    background-attachment:fixed;
+}
+.elmar-text{
+    font-size: 40px;
+    text-align: center;
+    padding: 100px;
+    text-shadow: 5px 5px 10px black;
+    color: aliceblue;
+}
+.videojuegos-container{
+    background-image: url(../img/v0a52u606hd01.jpg);
+    height: 90vh;
+    width: 50%vw;
+    margin-top: 0;
+    background-size: cover;
+    background-attachment:fixed;
+    padding-bottom: 500px;
+}
+.comer-container{
+    background-image: url(../img/taco.jpg);
+    height: 90vh;
+    width: 50%vw;
+    margin-top: 0;
+    background-size: cover;
+    background-attachment:fixed;
+    padding-bottom: 500px;
+}
+.gym-container{
+    background-image: url(../img/gym.jpg);
+    height: 90vh;
+    width: 50%vw;
+    margin-top: 0;
+    background-size: cover;
+    background-attachment:fixed;
+    padding-bottom: 500px;
+}
+.tomarcafe-container{
+    background-image: url(../img/cafe.jpg);
+    height: 90vh;
+    width: 50%vw;
+    margin-top: 0;
+    background-size: cover;
+    background-attachment:fixed;
+    padding-bottom: 500px;
+}
+.perro-container{
+    background-image: url(img/pets.jpg);
+    height: 90vh;
+    width: 50%vw;
+    margin-top: 0;
+    background-size: cover;
+    background-attachment:fixed;
+    padding-bottom: 500px;
+}
+.contacto-container{
+    background-image: url(img/instaqr.jpg);
+    height: 90vh;
+    width: 50%vw;
+    margin-top: 0;
+    padding-bottom: 500px;
+    background-size: cover;
+    background-attachment:fixed;
+}
+
+.footer{
+    background-color: aliceblue;
+    text-align: center;
+    height: 30px;
+    padding:10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-top-style:groove ;
+    
+}
